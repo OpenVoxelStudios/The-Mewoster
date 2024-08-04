@@ -1,0 +1,36 @@
+IDEAS:
+    ✔ Find more attacks @done(24-07-31 16:50)
+    ✔ Build Arena Map @done(24-07-31 16:50)
+
+STATES:
+    ✔ Dying Time (ID: -2) @done(24-08-01 21:49)
+    ✔ Spawning Time (ID: -1) @done(24-07-31 23:43)
+    ✔ Cat Throw Attack (ID: 1) @done(24-07-30 19:57)
+    ✔ Sand Ceiling Attack (ID: 2) @done(24-07-31 23:42)
+    ✔ Comically Large Hammer (ID: 3) @done(24-07-31 22:36)
+    ✔ Bread-eater and charge on player (ID: 4) @done(24-08-01 00:27)
+
+MOVEMENTS:
+    ✔ Stay close to player (ID: 1) @done(24-07-31 02:51)
+        -> Tries so run around the player up to 10 blocks
+    ✔ Stay in distance with player (ID: 2) @done(24-07-31 02:38)
+        -> Stay between 6 and 20 blocks from the player
+    ✔ Run away (ID: 3) @done(24-07-31 02:44)
+        -> Run away further than 20 blocks away
+    ✔ Dash (ID: 4) @done(24-07-31 23:43)
+        -> Dash to entity with tag "charge_end"
+        
+ANIMATIONS:
+    ✔ Walk @done(24-07-31 00:32)
+    ✔ Cat Throwing (attack n°1) @done(24-07-31 02:39)
+    ✔ Mario Jump (attack n°2) @done(24-07-31 22:20)
+    ✔ Hammer (attack n°3) @done(24-07-31 22:20)
+    ✔ Eat bread & Charge (attack n°4) @done(24-07-31 23:42)
+    ✔ Die @done(24-07-31 23:42)
+    ✔ Spawning @done(24-08-01 01:26)
+
+FINAL TASKS:
+    ✔ Add coolo music @done(24-08-01 01:26)
+    ✔ Make Movements Connect and Make AI independant. @done(24-08-01 02:50)
+    ✔ Record the max 1:30s video @done(24-08-02 03:08)
+    ☐ Playtest & Bugtesting

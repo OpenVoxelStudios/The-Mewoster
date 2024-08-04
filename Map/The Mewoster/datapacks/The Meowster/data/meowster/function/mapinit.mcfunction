@@ -1,0 +1,65 @@
+kill @e[tag=movement_keypoint]
+
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+summon marker 0.0 0.0 0.0 {Tags:["movement_keypoint"]}
+
+
+spreadplayers 0 0 3 15 under -58 false @e[tag=movement_keypoint]

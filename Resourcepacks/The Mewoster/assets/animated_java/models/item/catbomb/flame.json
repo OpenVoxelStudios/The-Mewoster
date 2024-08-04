@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"0": "animated_java:item/catbomb/bomb"
+	},
+	"elements": [
+		{
+			"from": [8.5, 5, 5],
+			"to": [8.5, 11, 11],
+			"rotation": {
+				"angle": -22.5,
+				"axis": "x",
+				"origin": [8.5, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 0, 3],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [4.5, 9, 7.5, 12],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [0, 0, 0, 3],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [9, 4.5, 12, 7.5],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [0, 3, 0, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [0, 0, 0, 3],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

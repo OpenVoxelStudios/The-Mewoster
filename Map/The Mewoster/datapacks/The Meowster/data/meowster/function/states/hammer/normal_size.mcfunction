@@ -1,0 +1,1 @@
+execute as @a[scores={clapped=..0}] run attribute @s generic.scale base set 1

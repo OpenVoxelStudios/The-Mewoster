@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"3": "animated_java:item/meowster/gg"
+	},
+	"elements": [
+		{
+			"from": [-4, 0.15385, 8],
+			"to": [20, 15.84615, 8],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 14, 8.92308]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 6.5, 4.25],
+					"texture": "#3"
+				},
+				"east": {
+					"uv": [6.5, 1, 7, 5.25],
+					"texture": "#3"
+				},
+				"south": {
+					"uv": [6.5, 0, 0, 4.25],
+					"texture": "#3"
+				},
+				"west": {
+					"uv": [6.5, 5.25, 7, 9.5],
+					"texture": "#3"
+				},
+				"up": {
+					"uv": [13, 0.5, 6.5, 0],
+					"texture": "#3"
+				},
+				"down": {
+					"uv": [13, 0.5, 6.5, 1],
+					"texture": "#3"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

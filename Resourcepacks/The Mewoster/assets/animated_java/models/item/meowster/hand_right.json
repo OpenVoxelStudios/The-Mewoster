@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"1": "animated_java:item/meowster/hammer"
+	},
+	"elements": [
+		{
+			"from": [6, 4, 5.5],
+			"to": [10, 8, 10.5],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [6, 0, 4]
+			},
+			"faces": {
+				"north": {
+					"uv": [4.5, 13, 5, 13.5],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [11.875, 12.5, 12.5, 13],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [5.75, 13, 6.25, 13.5],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [12.5, 12.5, 13.125, 13],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [8.375, 13.125, 7.875, 12.5],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [13.125, 0.875, 12.625, 1.5],
+					"texture": "#1"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

@@ -1,0 +1,1 @@
+execute if score tick meowster matches 10 as @e[tag=aj.meowster.root] run function animated_java:meowster/animations/die/play

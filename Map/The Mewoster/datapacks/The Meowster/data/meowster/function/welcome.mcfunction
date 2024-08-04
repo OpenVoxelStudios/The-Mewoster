@@ -1,0 +1,4 @@
+tag @s add welcomed
+scoreboard players reset @s leave_game
+
+tellraw @s ["",{"text":"\n"},{"text":"\n"},{"text":" /- ","bold":true,"color":"dark_green"},{"text":"T h e   M e o w s t e r ","bold":true,"color":"green"},{"text":"-\\","bold":true,"color":"dark_green"},{"text":"\n"},{"text":" |     ","color":"dark_green"},{"text":"Click to "},{"text":"[Toggle Music]","bold":true,"clickEvent":{"action":"suggest_command","value":"/trigger toggle_music"}},{"text":"       |","color":"dark_green"},{"text":"\n"},{"text":" |","color":"dark_green"},{"text":"     Click to "},{"text":"[Spawn Boss]","bold":true,"clickEvent":{"action":"run_command","value":"/execute positioned 0 -59 0 rotated 0 0 run function meowster:summon"}},{"text":"         |","color":"dark_green"},{"text":"\n"},{"text":" \\-----------------------/","bold":true,"color":"dark_green"},{"text":"\n"},{"text":"\n"}]

@@ -1,0 +1,51 @@
+{
+	"catbomb": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/models/item/catbomb/string2.json",
+			"assets/animated_java/models/item/catbomb/string.json",
+			"assets/animated_java/models/item/catbomb/flame.json",
+			"assets/animated_java/models/item/catbomb/bomb.json",
+			"assets/animated_java/textures/item/catbomb/bomb.png",
+			"assets/animated_java/textures/item/catbomb/outline.png",
+			"assets/animated_java/textures/item/transparent.png"
+		]
+	},
+	"meowster": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/models/item/meowster/hammer.json",
+			"assets/animated_java/models/item/meowster/hand_left.json",
+			"assets/animated_java/models/item/meowster/lowerarm_left.json",
+			"assets/animated_java/models/item/meowster/arm_left.json",
+			"assets/animated_java/models/item/meowster/bread.json",
+			"assets/animated_java/models/item/meowster/hand_right.json",
+			"assets/animated_java/models/item/meowster/lowerarm_right.json",
+			"assets/animated_java/models/item/meowster/arm_right.json",
+			"assets/animated_java/models/item/meowster/uppertail.json",
+			"assets/animated_java/models/item/meowster/middletail.json",
+			"assets/animated_java/models/item/meowster/tail.json",
+			"assets/animated_java/models/item/meowster/hair.json",
+			"assets/animated_java/models/item/meowster/ear_left.json",
+			"assets/animated_java/models/item/meowster/ear_right.json",
+			"assets/animated_java/models/item/meowster/head.json",
+			"assets/animated_java/models/item/meowster/body.json",
+			"assets/animated_java/models/item/meowster/shoe_right.json",
+			"assets/animated_java/models/item/meowster/lowerleg_right.json",
+			"assets/animated_java/models/item/meowster/leg_right.json",
+			"assets/animated_java/models/item/meowster/shoe_left.json",
+			"assets/animated_java/models/item/meowster/lowerleg_left.json",
+			"assets/animated_java/models/item/meowster/leg_left.json",
+			"assets/animated_java/models/item/meowster/string2.json",
+			"assets/animated_java/models/item/meowster/string.json",
+			"assets/animated_java/models/item/meowster/flame.json",
+			"assets/animated_java/models/item/meowster/bomb.json",
+			"assets/animated_java/models/item/meowster/gg.json",
+			"assets/animated_java/textures/item/meowster/hammer.png",
+			"assets/animated_java/textures/item/meowster/bread.png",
+			"assets/animated_java/textures/item/meowster/gg.png",
+			"assets/animated_java/textures/item/meowster/texture.png",
+			"assets/animated_java/textures/item/transparent.png"
+		]
+	}
+}
