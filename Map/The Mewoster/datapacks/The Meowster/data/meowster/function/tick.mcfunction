@@ -3,6 +3,7 @@
 # Say welcome to new players
     execute as @a[tag=!welcomed] run function meowster:welcome
     execute as @a if score @s leave_game matches 1.. run function meowster:welcome
+    execute as @a unless score @s leave_game matches -2147483648..2147483647 run function meowster:welcome
 
 # Music system
     scoreboard players enable @a toggle_music
